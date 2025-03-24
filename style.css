@@ -1,3 +1,10 @@
+@font-face { 
+    font-family: 'yesteryear'; 
+    src: url('./assets/Fonts/Yesteryear-Regular.ttf') format('truetype'); 
+    font-family: 'Fleur De Leah'; 
+    src: url('./assets/Fonts/FleurDeLeah-Regular.ttf') format('truetype');
+} 
+
 html{
     background-color: antiquewhite;
 }
